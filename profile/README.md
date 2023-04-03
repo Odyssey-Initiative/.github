@@ -1,7 +1,3 @@
-## Hi there 👋
-
-<!--
-
 🙋‍♀️ Introduction: What is Odyssey Initiative all about?
 Odyssey Initiative is an exclusive NFT marketplace that features high-quality, limited-edition digital art. By invitation only, this platform provides a curated selection of unique NFTs for collectors and enthusiasts alike. Odyssey Initiative brings a new and exciting dimension to the world of NFTs, combining art and technology in perfect harmony.
 
@@ -28,4 +24,3 @@ Odyssey Initiative features a curated selection of some of the most unique and i
 
 🌍 Odyssey Initiative Goes Global: Expanding Access to Unique NFTs
 At Odyssey Initiative, we are committed to expanding access to a global audience of collectors and enthusiasts. Join us in our mission to bring unique and inspiring digital art to new audiences around the world, and be a part of the movement to revolutionize the art world as we know it.
--->
